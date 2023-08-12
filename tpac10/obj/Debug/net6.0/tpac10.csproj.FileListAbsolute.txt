@@ -1,0 +1,15 @@
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\bin\Debug\net6.0\tpac10.exe
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\bin\Debug\net6.0\tpac10.deps.json
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\bin\Debug\net6.0\tpac10.runtimeconfig.json
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\bin\Debug\net6.0\tpac10.dll
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\bin\Debug\net6.0\tpac10.pdb
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\tpac10.csproj.AssemblyReference.cache
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\tpac10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\tpac10.AssemblyInfoInputs.cache
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\tpac10.AssemblyInfo.cs
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\tpac10.csproj.CoreCompileInputs.cache
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\tpac10.dll
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\refint\tpac10.dll
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\tpac10.pdb
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\tpac10.genruntimeconfig.cache
+C:\Users\Nalit\OneDrive\Рабочий стол\Вова учеба\SeminarProg2\tpac10\obj\Debug\net6.0\ref\tpac10.dll
